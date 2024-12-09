@@ -1,0 +1,10 @@
+# Set default behavior for text files
+* text=auto
+
+# Force LF for specific files
+*.cs eol=lf
+
+# Binary files (no conversion)
+*.png binary
+*.jpg binary
+*.exe binary
